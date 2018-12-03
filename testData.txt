@@ -1,0 +1,34 @@
+########################## To create New Employee ##########################
+{
+"emp_id":"232",
+  "contact":{
+      "email":"kdhananjay104@gmail.com",
+      "mobile":"9140549895",
+      "alt_mobile":"8423527406"
+    },
+  "emp_name": {
+        "emp_firstName": "Dhananjay",
+        "emp_lastName":"Rahul"
+    },
+  "team":"Angular",
+  "image":"dhj",
+  "address": {
+        "lines": "Pune",
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "zip": 411027
+  }
+      
+   }
+
+
+   ###################### Login (Method: POST)  ########################################
+
+   ?
+   
+   { 
+       "name":"rahul",
+     "password":"1234",
+     "admin":true
+    }
+    
